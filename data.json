@@ -1,0 +1,654 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-19",
+  "exams": [
+    {
+      "id": "hwg-1-mid-a",
+      "series": "Here We Go",
+      "book": 1,
+      "term": "期中考",
+      "variant": "A",
+      "title": "HWG 1 期中考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1EnbZTbn3y_moonuF_Whn2PTxUHSR64Z7/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1KalVkbGxLDvtoWfeT896IPZZQdlfNkF8/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1_JxFP-DJ3YdUc7oM_34XIsUYs1Ch58WV/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/15iiVnRig5UglCN2DcK_vgQbdLBy8WmZT",
+      "audio": [
+        {
+          "title": "01. 國小英語 HWG 1 期中考 A 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1S3WzRTAVdifGlGmBYcy8He8JbpZOThAI/view?usp=drivesdk"
+        },
+        {
+          "title": "02. 國小英語 HWG 1 期中考 A 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1j0GZIXM0bfutOE4RpcX_hCxYtd_en85F/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-1-mid-b",
+      "series": "Here We Go",
+      "book": 1,
+      "term": "期中考",
+      "variant": "B",
+      "title": "HWG 1 期中考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1E52TNN-_IpRhCl08cg7GzRJtHG_i8nfu/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1YRQSnf-Yd1tnquzUiRd6MT3yauhd035n/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1ghFYb1YNuGNb0w_4P8lbj5_vLHd_1C31/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1aeO5vX1hibiREmle78XRxOpcHSdMYVT1",
+      "audio": [
+        {
+          "title": "03. 國小英語 HWG 1 期中考 B 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1lEaO-3MlQWtoLjiVmKjGYn8u5fk4LPE9/view?usp=drivesdk"
+        },
+        {
+          "title": "04. 國小英語 HWG 1 期中考 B 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1Em2T356GHAmacYEUOMfN6Fq5EBgSZxQS/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-1-mid-c",
+      "series": "Here We Go",
+      "book": 1,
+      "term": "期中考",
+      "variant": "C",
+      "title": "HWG 1 期中考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1Esed0Fso9cA-Gr39RA9jqiyX2iCwoXKT/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1d5V4VGqL2uxE81p4Hfi_FhIcYb_2P11P/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1ely78oNCgN9X0hxd1psiZ5Qz-ycnS-ix/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1QfSKocUcKvYU4kRdUZhc7ULJ-VHPgeDd",
+      "audio": [
+        {
+          "title": "05. 國小英語 HWG 1 期中考 C 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1hO642MC37a6CAyvxecLln3C831DT0wQ1/view?usp=drivesdk"
+        },
+        {
+          "title": "06. 國小英語 HWG 1 期中考 C 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1hgGQBh2mOsP0nMZ4Wvc-4DrQGg8ZWzgd/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-1-final-a",
+      "series": "Here We Go",
+      "book": 1,
+      "term": "期末考",
+      "variant": "A",
+      "title": "HWG 1 期末考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1462qvYAG8HjAbI-6SvTUfzBazy3SgaZw/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1v_TqVZV2HAG83BDekLeB9kWxYEQOZvvk/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/134gkH11nFhYltHSaEt1zwfH8LAy3jmi7/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1ovhi9G-kFxekwkdKXdTCl56VYebyfBIA",
+      "audio": [
+        {
+          "title": "07. 國小英語 HWG 1 期末考 A 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1bkkGV7hCjCsG2fdpQHR6IZXHBd3RzsfW/view?usp=drivesdk"
+        },
+        {
+          "title": "08. 國小英語 HWG 1 期末考 A 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1FYtdztE5u0j1Wttuj5kzoYcu0qirCh3L/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-1-final-b",
+      "series": "Here We Go",
+      "book": 1,
+      "term": "期末考",
+      "variant": "B",
+      "title": "HWG 1 期末考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1LcgTO3M9gkPFFQAquqQO0zInNToAaS2r/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1o-ycyi_CJ5XI2sqYWHGYoz9ClF4z-zO2/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1lCBohQHhUV2dAnMMXuvPRPzy_p0jygQR/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1pAni48MDi6m8cTfxmxLdYik34LyUw_1I",
+      "audio": [
+        {
+          "title": "09. 國小英語 HWG 1 期末考 B 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1_vIAiNKQJKn9iH-Y9V-A4DOuPnBv2Tot/view?usp=drivesdk"
+        },
+        {
+          "title": "10. 國小英語 HWG 1 期末考 B 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/18LW6wRXyWxvEWs9MBh_XxpZSefbw0LyS/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-1-final-c",
+      "series": "Here We Go",
+      "book": 1,
+      "term": "期末考",
+      "variant": "C",
+      "title": "HWG 1 期末考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1uKpQ6bkU5Xbq7zQaWRDkmBNXBQe2WUxF/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1inaBSK-HmYfOkiiA8S68U2miJtw7LD4K/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1YWYt89SqNFpTU4Q_2U1l5lMw3WiaKaxG/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1TaClC5LGfL3J6_uwb2mKyjhQuBj4Mb9f",
+      "audio": [
+        {
+          "title": "11. 國小英語 HWG 1 期末考 C 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1-dRdU6Wa-UvVdkTQmBPK399ZLFZXGo6G/view?usp=drivesdk"
+        },
+        {
+          "title": "12. 國小英語 HWG 1 期末考 C 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1-fyZHcbwRCZedzYH7Q2JOv0wbWOqhUGV/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-3-mid-a",
+      "series": "Here We Go",
+      "book": 3,
+      "term": "期中考",
+      "variant": "A",
+      "title": "HWG 3 期中考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1Ak5Ty796hBEqfPt6XeXgEan2JNpUmZa2/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1BaeNTLEpZoK9asn_ISSzuWr5giQF4o20/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1Se0kqRQ2h1PQzIhuth2HEN-tLcB2P8gU/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1j8I-IA4eOoLAfJ9C2M3BX0efO_os5pGC",
+      "audio": [
+        {
+          "title": "01. 國小英語HWG 3期中考A卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1rmCZ7dUJ1VyLETdxd2H7Tk5PeLxmsG7u/view?usp=drivesdk"
+        },
+        {
+          "title": "02. 國小英語HWG 3期中考A卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1LMPwPhF-UGC7RdlIJLXROTd4YGiScyJu/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-3-mid-b",
+      "series": "Here We Go",
+      "book": 3,
+      "term": "期中考",
+      "variant": "B",
+      "title": "HWG 3 期中考 B 卷",
+      "pdf": "https://drive.google.com/file/d/19YGpA67HgeBvftHbhicMvsOH19UaNgqu/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1-9LFhbSCmnfAfE1bRIg8kG8tQrP-pQAj/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1kMQ6juluieKTO4NpyHShri0doOEQJKVu/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1h-glNTVsrYHV_ILH18LmTl3d3Hv6E3ON",
+      "audio": [
+        {
+          "title": "03. 國小英語HWG 3期中考B卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1EyDOUKyn04UlB6MeTKHivYZvR5nIGsk7/view?usp=drivesdk"
+        },
+        {
+          "title": "04. 國小英語HWG 3期中考B卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1fz6zMVc29dx0YLfSQRk2fV_0KAqALa5M/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-3-mid-c",
+      "series": "Here We Go",
+      "book": 3,
+      "term": "期中考",
+      "variant": "C",
+      "title": "HWG 3 期中考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1CIJLgBujpKweVsvVtg6oG-sPAWwIfA7K/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1DUXHGAkLqE_vcAfzER8b_bGVDbHbZCSq/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1ghxdjMeYLmNnHdCSN1bV5qo5FWq-ps4Y/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1ahj8oaFleIwododCgVQD1evhi4VISTgg",
+      "audio": [
+        {
+          "title": "05. 國小英語HWG 3期中考C卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1BOag_ILa95DDMOwrvxc5K-Y_BcbqvHyd/view?usp=drivesdk"
+        },
+        {
+          "title": "06. 國小英語HWG 3期中考C卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1GijalugaKdcnv-001QsP15GQa4oF-_Fy/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-3-final-a",
+      "series": "Here We Go",
+      "book": 3,
+      "term": "期末考",
+      "variant": "A",
+      "title": "HWG 3 期末考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1os5U_XmNW5kG4x7PJo3ihSNc1KOykr6u/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1U_150_cWUIhXqvHOQcR4hTsh-837E3WV/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1r65vAB3TuN17-oOkhARxRqCAR1UlB4U2/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1zMP6piSLKTjB-ojfhDE-SyOPmCqX7s_F",
+      "audio": [
+        {
+          "title": "07. 國小英語HWG 3期末考A卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1KmGdiieHlPJp5Imw_m8-KJQPB2FUKGM4/view?usp=drivesdk"
+        },
+        {
+          "title": "08. 國小英語HWG 3期末考A卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/11F2ZWZPc9uQoVLnZ2T8tkrJrI-Mjpwmu/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-3-final-b",
+      "series": "Here We Go",
+      "book": 3,
+      "term": "期末考",
+      "variant": "B",
+      "title": "HWG 3 期末考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1YVZRsEClr9C9pICZcl6CBEdcGjwkD7P_/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1xzvAJIAd3eGq1zk2PEWQU8NxNSVRviEu/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1tKD4C8M-0xH1VlTypO2H_Ez5zB0bV3hB/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1e2tWSLHRPaBmCV33EXUoKPLONi6GZVNw",
+      "audio": [
+        {
+          "title": "09. 國小英語HWG 3期末考B卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1kAvfDz9XPSdBHMaC6fkJgxQmt0mTT923/view?usp=drivesdk"
+        },
+        {
+          "title": "10. 國小英語HWG 3期末考B卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1tHdxQ7t1w5SdTIkvzPQf-YHXmECQ8JAG/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-3-final-c",
+      "series": "Here We Go",
+      "book": 3,
+      "term": "期末考",
+      "variant": "C",
+      "title": "HWG 3 期末考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1RbY65ZXEidFMLEpY07x_uACNwe0MEJ3D/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1-DjlK6Cd4YivtLFxZtzdxC6AWsSxVzZa/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1cItpqofU0wnhZhJgEQZTAmCe75-sbwxY/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1lzwiDdd_luhEqit_lSOx_2PAJl6HfnFH",
+      "audio": [
+        {
+          "title": "11. 國小英語HWG 3期末考C卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1xqniEAlSr-8Uujy0ckshjFKdJuRMD_ic/view?usp=drivesdk"
+        },
+        {
+          "title": "12. 國小英語HWG 3期末考C卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1Eo_MqgfJZmz2UkARS9aTeilzT62Djy-W/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-5-mid-a",
+      "series": "Here We Go",
+      "book": 5,
+      "term": "期中考",
+      "variant": "A",
+      "title": "HWG 5 期中考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1nNr30r9BNtiUQc6SPnuuw4z019MJKEhl/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1ZMbs3FpaNezsNY31b2POhiUozptulKmL/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1cBpkVVOJPpyq5x3LIWaWMVR6qU_Nfyrb/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1TJ_kgUMc96Zto0YnC2bGILwKlAmuun2y",
+      "audio": [
+        {
+          "title": "01. 國小英語 HWG 5 期中考 A 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1qJy-iS1Oh2I99WYgjF2q5Bm9BUsrwwYu/view?usp=drivesdk"
+        },
+        {
+          "title": "02. 國小英語 HWG 5 期中考 A 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1YqgwIiWMDLKhwinRfYF_wOnANleTN9Xu/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-5-mid-b",
+      "series": "Here We Go",
+      "book": 5,
+      "term": "期中考",
+      "variant": "B",
+      "title": "HWG 5 期中考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1TMbk-TB8NnzmrilGh1NQ-KQYQFu4TcF0/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1rk2C8ZNJupQaqpqp9048ka_WHArW3IQp/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1ssBY8hkGfZkP-971bgi3x7k0Le-DiHXO/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1NnMwI0Wkq1r958C_pZqxoAFJSc1_DHq8",
+      "audio": [
+        {
+          "title": "03. 國小英語 HWG 5 期中考 B 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1rL-Jymugc29VQ1u1BoJpffHsrS7G0TMO/view?usp=drivesdk"
+        },
+        {
+          "title": "04. 國小英語 HWG 5 期中考 B 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1L3UG5w42lDiSM3oyO9EdWwVAQZFrz5ZZ/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-5-mid-c",
+      "series": "Here We Go",
+      "book": 5,
+      "term": "期中考",
+      "variant": "C",
+      "title": "HWG 5 期中考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1Oo9CEeZJtC5bkphERZH17ewX88qembOn/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1RpuOzA-pGD_aioE48TpiFG_aQqNcRHcx/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1z-igp7lWvtWLtPkv6lg5SuTm74-hX26d/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1e8FdZOJXmYCG7QtmWnwrLEaodbx4XDy5",
+      "audio": [
+        {
+          "title": "05. 國小英語 HWG 5 期中考 C 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1NpQDDQWwjOPQ2mzt178RNUHN87Zwrdtl/view?usp=drivesdk"
+        },
+        {
+          "title": "06. 國小英語 HWG 5 期中考 C 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1dQOpFgS-eBlm82CW74qNRVEwA4kcASdX/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-5-final-a",
+      "series": "Here We Go",
+      "book": 5,
+      "term": "期末考",
+      "variant": "A",
+      "title": "HWG 5 期末考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1AzOT-kG5a8QPZdbDgG7RTu5l6rCztPgx/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1dzy7h45hh7rWoAQhg_vig4mbGO3QdINh/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1PVL4X63oTEnhqmnobHP9sDGgwR2EWQkV/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1gcI3MG-2NbcmVxx6sO7J6UL3WkhcGk53",
+      "audio": [
+        {
+          "title": "07. 國小英語 HWG 5 期末考 A 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/11dfjIJO78nSXC5glH3QRFOJCTmGliYIx/view?usp=drivesdk"
+        },
+        {
+          "title": "08. 國小英語 HWG 5 期末考 A 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1-nhW9ryKUHGBnl1RHLxgB-hbKXy09Ugg/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-5-final-b",
+      "series": "Here We Go",
+      "book": 5,
+      "term": "期末考",
+      "variant": "B",
+      "title": "HWG 5 期末考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1b79haGn8o-o8V8lMLYDHdfCQeH_WrR7s/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1WA_N0YD--8iLq22CPfK8fyWi1RrBRE29/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1Un0Xva-qgsuNG7bDE_KZkzTPmQxZYZak/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1GqQ0sedLJef7g0_ll6bF_p_m14xv3IpB",
+      "audio": [
+        {
+          "title": "09. 國小英語 HWG 5 期末考 B 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1pSpWOTNjw15ojayFu3Q1GtK0yioxdO7z/view?usp=drivesdk"
+        },
+        {
+          "title": "10. 國小英語 HWG 5 期末考 B 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1XSTyxt02AfIxkSpCtMK5shIrT4SQVQ2D/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-5-final-c",
+      "series": "Here We Go",
+      "book": 5,
+      "term": "期末考",
+      "variant": "C",
+      "title": "HWG 5 期末考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1tp3Coea_ax18x-wmncq-whS6lf2RGZTC/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1PUOTyNo8sxyyaG4RjKaGRnirkSdoNZ8H/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1YfEPRLd4w84hez-lLoBnXcN0ejlV9QJz/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1yMvSiXBxDWHAJHyjvlShSYLjgnJKTGLC",
+      "audio": [
+        {
+          "title": "11. 國小英語 HWG 5 期末考 C 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1bIl-EBris0cwbSuYcDfxu0Je2zCpXN3j/view?usp=drivesdk"
+        },
+        {
+          "title": "12. 國小英語 HWG 5 期末考 C 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1OuRZbmebqJHDSuplUYjv8mepnDyxEgr_/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-7-mid-a",
+      "series": "Here We Go",
+      "book": 7,
+      "term": "期中考",
+      "variant": "A",
+      "title": "HWG 7 期中考 A 卷",
+      "pdf": "https://drive.google.com/file/d/15encFEUo0gjV3HCWTz8ooDU4976iT60c/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1ILh_md7iEJI6Rr7PevWlf_BsGKniVZEp/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1O6nwK2p4iQok0AajRGuO89PV-LGpNKeD/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1xYGQ14ng9qkLG5tG_3XRC4TxJTWyKP97",
+      "audio": [
+        {
+          "title": "01. 國小英語 HWG 7 期中考 A 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1PCoItLKnzkhzmwlJxS1UJTZAhhNtrUNv/view?usp=drivesdk"
+        },
+        {
+          "title": "02. 國小英語 HWG 7 期中考 A 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/13U8xPYfrE3FuMO0XivxYvVxqoZPVGWvE/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-7-mid-b",
+      "series": "Here We Go",
+      "book": 7,
+      "term": "期中考",
+      "variant": "B",
+      "title": "HWG 7 期中考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1Uia4r1Kb8b88didNCtoBAjD4XWvfegaw/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1Xqcy_wx3rABfWtrPL-EklorEXqYNyQGT/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1iFX5G9UAGr2ds8f1BFUbna1kVev5bVPY/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1_jPSO7R9TSTve5zyPrp8i3Pf1pnu2OJX",
+      "audio": [
+        {
+          "title": "03. 國小英語 HWG 7 期中考 B 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1mXvoJoUmqBBjUkO5sYcP8pHh53vM14VA/view?usp=drivesdk"
+        },
+        {
+          "title": "04. 國小英語 HWG 7 期中考 B 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/12x5ynzssZVrUCil4nBi2m6ngAo3AOz3Q/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-7-mid-c",
+      "series": "Here We Go",
+      "book": 7,
+      "term": "期中考",
+      "variant": "C",
+      "title": "HWG 7 期中考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1GiDXmmOTPJHpkWg1WimSWvI9Wp3nEiil/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1GmOuMJuUPjqs97Tcz75nXBdZh_z8cZfw/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1j4SnAwMh3zfeRfo9lzhVGBsg5UKW8fT8/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1hD9NKOZskTEQ_c-zwHYbTylF2KRG2DHK",
+      "audio": [
+        {
+          "title": "05. 國小英語 HWG 7 期中考 C 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1HmZsb5walHVqGx04adN0vq42of2SiJmg/view?usp=drivesdk"
+        },
+        {
+          "title": "06. 國小英語 HWG 7 期中考 C 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1cc1TDGgU4xxipRHmNdd0R7gaKcH1TxcN/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-7-final-a",
+      "series": "Here We Go",
+      "book": 7,
+      "term": "期末考",
+      "variant": "A",
+      "title": "HWG 7 期末考 A 卷",
+      "pdf": "https://drive.google.com/file/d/1ckBRgr7iXCVx1C5GKNZPBzvIgaPobL6Q/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1RbtUlnqlRs5fnYSA_5mqEMrkFGCC8I1N/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/10_Ap0sZ6XMZFYScjWkfMz7U2etNHP6nn/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/10Y2rBPWU_uzdO5YHtJVgg3IAnvr6TV8m",
+      "audio": [
+        {
+          "title": "07. 國小英語 HWG 7 期末考 A 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1VTZI2IcepH7KbIYSl-dqxCny0xaTH46h/view?usp=drivesdk"
+        },
+        {
+          "title": "08. 國小英語 HWG 7 期末考 A 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1jDhSMHoS9wVmVfM2_cKpHUcDqbam1K8d/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-7-final-b",
+      "series": "Here We Go",
+      "book": 7,
+      "term": "期末考",
+      "variant": "B",
+      "title": "HWG 7 期末考 B 卷",
+      "pdf": "https://drive.google.com/file/d/1fgFuo2Gj25Etqa_3HeATW0oWtMAxSG3b/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1hlEHUGaH91cu5UJXlVcZPVzgQU9Rh-Uq/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1j-d4xNVx59i3PTdnCNUBcCgImVwDtQ2n/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/12vlmHyWQiUq0oXha_XxHJaTNNa8SBe94",
+      "audio": [
+        {
+          "title": "09. 國小英語 HWG 7 期末考 B 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1XKsmlXYmuLukJRypfg10LdHSxIttWLdb/view?usp=drivesdk"
+        },
+        {
+          "title": "10. 國小英語 HWG 7 期末考 B 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/1bQTACj68rowBKz4N-oaDXDhlEkS0-6ZD/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    },
+    {
+      "id": "hwg-7-final-c",
+      "series": "Here We Go",
+      "book": 7,
+      "term": "期末考",
+      "variant": "C",
+      "title": "HWG 7 期末考 C 卷",
+      "pdf": "https://drive.google.com/file/d/1VsmpeKI3qKh5XUzLMhkuduzGSf7gi4fn/view?usp=drivesdk",
+      "studentWord": "https://docs.google.com/document/d/1LvRV6-0z_5FxnOMrzM30R_7gOk3RditJ/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "teacher": "https://docs.google.com/document/d/1IxoAvffijUXXTSva632j_1m5K7GPv9qb/edit?usp=drivesdk&ouid=100872565116553087617&rtpof=true&sd=true",
+      "folder": "https://drive.google.com/drive/folders/1GOTXypOf7zJYJDd_oSLLPNS12lflwqbz",
+      "audio": [
+        {
+          "title": "11. 國小英語 HWG 7 期末考 C 卷 Part A.mp3",
+          "url": "https://drive.google.com/file/d/1AVIbui9WRQ6Ydb2kbJWt_W1fsqWietzF/view?usp=drivesdk"
+        },
+        {
+          "title": "12. 國小英語 HWG 7 期末考 C 卷 Part B.mp3",
+          "url": "https://drive.google.com/file/d/16rGurX3hdf6zgcJd4Gg1fc_nF2BqOzVa/view?usp=drivesdk"
+        }
+      ],
+      "notes": "二次評量｜學生版與教師版",
+      "tags": [
+        "翰林",
+        "二次評量"
+      ]
+    }
+  ]
+}
