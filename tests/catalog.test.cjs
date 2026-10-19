@@ -1,0 +1,10 @@
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const {readFileSync}=require('node:fs');
+const {safeUrl,validateBackup,filterExams}=require('../app.js');
+const data=JSON.parse(readFileSync(require('node:path').join(__dirname,'../data.json'),'utf8'));
+test('all 24 exams have PDFs, teacher files and paired audio',()=>{const {exams}=validateBackup(data);assert.equal(exams.length,24);for(const e of exams){assert.ok(e.pdf);assert.ok(e.teacher);assert.equal(e.audio.length,2);}assert.equal(new Set(exams.map(e=>e.pdf)).size,24);});
+test('six newly converted student PDFs are included',()=>{const ids=['1462qvYAG8HjAbI-6SvTUfzBazy3SgaZw','1LcgTO3M9gkPFFQAquqQO0zInNToAaS2r','1uKpQ6bkU5Xbq7zQaWRDkmBNXBQe2WUxF','1os5U_XmNW5kG4x7PJo3ihSNc1KOykr6u','1YVZRsEClr9C9pICZcl6CBEdcGjwkD7P_','1RbY65ZXEidFMLEpY07x_uACNwe0MEJ3D'];for(const id of ids)assert.ok(data.exams.some(e=>e.pdf.includes(id)));});
+test('combined filters, search and favorites narrow the correct exam',()=>{const filters={book:'3',term:'期末考',variant:'B',query:'hwg 3'};const found=filterExams(data.exams,filters);assert.equal(found.length,1);assert.equal(found[0].id,'hwg-3-final-b');assert.equal(filterExams(data.exams,{...filters,favoriteOnly:true},new Set()).length,0);assert.equal(filterExams(data.exams,{...filters,favoriteOnly:true},new Set([found[0].id])).length,1);});
+test('unsafe imported links and duplicate IDs are rejected',()=>{assert.equal(safeUrl('javascript:alert(1)'),'');assert.equal(safeUrl('http://example.com'),'');const unsafe=structuredClone(data);unsafe.exams[0].pdf='javascript:alert(1)';assert.throws(()=>validateBackup(unsafe));assert.throws(()=>validateBackup({...data,exams:[data.exams[0],data.exams[0]]}));});
+test('backup round trip preserves all resources',()=>{const parsed=validateBackup(JSON.parse(JSON.stringify({...data,favorites:[data.exams[0].id]})));assert.deepEqual(parsed.exams,data.exams);assert.equal(parsed.favorites[0],data.exams[0].id);});
